@@ -10,7 +10,7 @@ String name;
 Science=80;
 Maths=70;
 English=96;
-name="Kanika";
+name="Anagh";
 roll_no=18;
 System.out.println("Name="+name);
 System.out.println("Roll no="+roll_no);
